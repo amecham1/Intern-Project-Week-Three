@@ -1,0 +1,49 @@
+.header{
+  height: 18vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+
+}
+.title{
+  height: 10vh;
+  width: 50vw;
+  display: flex;
+  justify-content: center;
+
+}
+.main-title{
+  font-size: 34px;
+  font-family: "Lora",serif;
+}
+.nav-bar{
+  width: 95vw;
+  height: 8vh;
+  display: flex;
+  flex-wrap: nowrap;
+  border-bottom: solid thin #D7D7D7;
+
+}
+.search{
+  width:25vw;
+  height:5vh;
+  display: flex;
+  justify-content: center;
+}
+.name{
+  width: 50vw;
+  height: 5vh;
+  display: flex;
+  justify-content: center;
+}
+.intro-name{
+  font-size:18px;
+  font-family:
+}
+.HAM{
+  width: 25vh;
+  height: 5vh;
+  display: flex;
+  justify-content: center;
+}
